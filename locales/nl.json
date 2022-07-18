@@ -1,4 +1,8 @@
 {
-  "hello": "Hoi, {name}",
-  "language": "Taal"
+  "capabilities": "Web Designer en Fullstack Engineer",
+  "get_in_contact_button": "Zoek contact",
+  "learn_more_button": "Meer over mij",
+  "header_about_me": "Over mij",
+  "header_projects": "Projecten",
+  "header_contact": "Contact"
 }

@@ -1,4 +1,8 @@
 {
-  "hello": "Hello, {name}",
-  "language": "Language"
+  "capabilities": "Web Designer and Fullstack Engineer",
+  "get_in_contact_button": "Get in contact",
+  "learn_more_button": "More about me",
+  "header_about_me": "About me",
+  "header_projects": "Projects",
+  "header_contact": "Contact"
 }
