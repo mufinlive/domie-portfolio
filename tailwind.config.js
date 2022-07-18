@@ -7,8 +7,8 @@ module.exports = {
         sans: ["Inter", "sans-serif"],
       },
       backgroundImage: {
-        "dutch-flag": "url('~assets/netherlands.svg')",
-        "english-flag": "url('~assets/united.svg')",
+        "dutch-flag": "url('/netherlands.svg')",
+        "english-flag": "url('/united.svg')",
       },
     },
   },
